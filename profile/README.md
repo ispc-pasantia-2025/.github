@@ -183,7 +183,7 @@ La implementación de esta metodología permitió:
 | Pamela Grisel Ponce | [pame1ponce@gmail.com](mailto:pame1ponce@gmail.com) | [@1pame](https://github.com/1pame) |
 | Gonzalo Abel Olmedo | [gonzaloabelolmedo8@gmail.com](mailto:gonzaloabelolmedo8@gmail.com) | [@gonzalo-olmedo](https://github.com/gonzalo-olmedo) |
 | Delfina Delma Aricoma Mamani | [delrcmmamani@gmail.com](mailto:delrcmmamani@gmail.com) | [@DelfinaDAM](https://github.com/DelfinaDAM) |
-| Nahuel Argandoña | [rociio.fressa@gmail.com](mailto:rociio.fressa@gmail.com) | [@Aubar48](https://github.com/Aubar48) |
+| Nahuel Argandoña | [nahuel.cba.48@gmail.com](mailto:nahuel.cba.48@gmail.com) | [@Aubar48](https://github.com/Aubar48) |
 | Francisco Nicolás Toro Goitea | [torofrancisco13@gmail.com](mailto:torofrancisco13@gmail.com) | [@frantoro10](https://github.com/frantoro10) |
 
 ---
